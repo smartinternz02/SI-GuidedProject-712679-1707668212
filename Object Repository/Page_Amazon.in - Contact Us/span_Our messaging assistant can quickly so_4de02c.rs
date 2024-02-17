@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Our messaging assistant can quickly so_4de02c</name>
+   <tag></tag>
+   <elementGuidId>2528aebe-b690-4255-963a-c5705f445ec1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contactus_pagelet_div']/div[2]/div/div/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-size-base.a-color-secondary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e34a10bd-1210-499a-8f4a-fe683b1b79b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-base a-color-secondary</value>
+      <webElementGuid>3a542648-5d4b-43f9-967d-035b913d19d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Our messaging assistant can quickly solve many issues or direct you to the right person or place.</value>
+      <webElementGuid>a0025a5d-0549-4e15-9070-9bde8a802a16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contactus_pagelet_div&quot;)/div[@class=&quot;a-row&quot;]/div[@class=&quot;a-column a-span6 a-text-center&quot;]/div[@class=&quot;a-box a-color-base-background a-width-extra-large&quot;]/div[@class=&quot;a-box-inner&quot;]/div[@class=&quot;a-row a-spacing-top-base a-ws-row&quot;]/div[@class=&quot;a-column a-span10 a-push2 a-text-left&quot;]/span[@class=&quot;a-size-base a-color-secondary&quot;]</value>
+      <webElementGuid>23c67f41-2345-4601-93a6-6be077302507</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contactus_pagelet_div']/div[2]/div/div/div/div[2]/div/span</value>
+      <webElementGuid>a21be5fb-adbc-4cce-9d01-1519b96894cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/span</value>
+      <webElementGuid>b4efd04f-90ae-4a87-9948-5d5183ea868e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Our messaging assistant can quickly solve many issues or direct you to the right person or place.' or . = 'Our messaging assistant can quickly solve many issues or direct you to the right person or place.')]</value>
+      <webElementGuid>2770d2c9-49b3-4c88-97e8-0be05ffcad03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
